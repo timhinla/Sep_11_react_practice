@@ -1,0 +1,9 @@
+.viewPanelContainer {
+  height: 500px;
+  background-color: beige;
+  text-align: center;  
+}
+
+.view-Panel-Image {
+  width: 400px;
+}

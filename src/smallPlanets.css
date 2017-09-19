@@ -1,0 +1,11 @@
+.thumbContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.thumbPics {
+    height: 100px
+}

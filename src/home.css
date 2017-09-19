@@ -1,0 +1,25 @@
+.topThree {
+  display: flex;
+  justify-content: space-around;
+  background-color: darkgrey;
+  padding: 20px;
+  vertical-align: bottom;
+}
+
+.thumbLabel {
+  margin-bottom: 30px;
+}
+
+.myFlexItem {
+  flex: 1;
+}
+
+.myFlexItem__sameResultAsPrev {
+  flex-grow: 1;
+  flex-basis: 0;
+}
+
+.myFlexItem2 {
+  flex-grow: 1;
+  flex-basis: 0;
+}
